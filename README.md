@@ -1,4 +1,8 @@
-### Hi there 👋
+### Ooi! Me chamo Elton 👋
+
+- 🔭 No momento não estou trabalhand na área da tecnologia.
+- 🌱 Estou cursando GTI na fatec - São sebastião, além de estudar vários assuntos por fora.
+- 📫 Contate-me no email eltongn13@gmail.com
 
 <!--
 **elton-nov/elton-nov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
