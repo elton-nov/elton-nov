@@ -1,6 +1,6 @@
 ### Ooi! Me chamo Elton 👋
 
-- 🔭 No momento não estou trabalhand na área da tecnologia.
+- 🔭 No momento não estou trabalhando na área da tecnologia.
 - 🌱 Estou cursando GTI na fatec - São sebastião, além de estudar vários assuntos por fora.
 - 📫 Contate-me no email eltongn13@gmail.com
 
